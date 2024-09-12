@@ -87,6 +87,10 @@ img {
     border-radius: 50%;
 }
 
+#first-footer {
+    color: pink;
+}
+
 #footer-ul {
     display: flex;
     list-style: none;
